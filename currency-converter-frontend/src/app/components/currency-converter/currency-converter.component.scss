@@ -1,0 +1,14 @@
+.container {
+    max-width: 600px;
+  }
+  
+  @media (max-width: 576px) {
+    .container {
+      padding: 15px;
+    }
+  }
+  
+  .spinner-border-sm {
+    margin-left: 5px;
+  }
+  
